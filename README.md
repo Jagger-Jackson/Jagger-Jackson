@@ -1,7 +1,5 @@
 <h3 align="left">About me</h3>
-
 ###
-
 <p align="left">-Coding since 2020<br>-Learning python<br>-More Backend than Frondend</p>
 
 ###
