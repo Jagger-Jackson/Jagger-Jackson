@@ -1,5 +1,8 @@
 # 💫 About Me:
-Coding since 2020<br>Learning python<br>Specialising in IT-Security<br>More Backend than Frondend
+* Coding since 2020
+* Learning python
+* Specialising in IT-Security
+* More Backend than Frondend
 
 
 # 💻 Tech Stack:
